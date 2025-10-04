@@ -11,5 +11,6 @@ Highest attrition in the 26–35 age group
 Majority attrition among employees earning below 5K
 Job roles like Laboratory Technicians and Sales Executives are most affected
 💡 This project helped me strengthen my skills in Power BI, Data Visualization, and HR Analytics.
+
 Data Set : https://lnkd.in/efNPF9Sp
 Would love to hear your feedback and suggestions!
